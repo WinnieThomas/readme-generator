@@ -39,7 +39,7 @@ ${renderLicenseBadge(data.license)}
 
 ## Table of Contents
 * [Description](#Description)
-* [Installation](#Installation)
+* [Installation](#installation)
 * [Usage](#Usage)
 * [Contributions](#Contributions)
 * [license](#license)
