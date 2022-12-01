@@ -38,8 +38,6 @@ THEN I am taken to the corresponding section of the README
 
 ![Screenshot3](https://github.com/WinnieThomas/readme-generator/blob/main/images/Readme3.png?raw=true)
 
-Link to the Vedio Demonstartion
 
-![Vediolink](https://drive.google.com/file/d/1JvHhTqOT_UoaLXXYdw48wl0yL8z8Nb-w/view)
 
 
