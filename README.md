@@ -33,3 +33,5 @@ THEN I am taken to the corresponding section of the README
 ## Screenshots of the application
 
 ![Screesnshot1](https://github.com/WinnieThomas/readme-generator/blob/main/images/Readme1.png?raw=true)
+
+![Screenshot2](https://github.com/WinnieThomas/readme-generator/blob/main/images/Readme2.png?raw=true)
