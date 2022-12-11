@@ -38,6 +38,10 @@ THEN I am taken to the corresponding section of the README
 
 ![Screenshot3](https://github.com/WinnieThomas/readme-generator/blob/main/images/Readme3.png?raw=true)
 
+Vedio walkthrough of the application
+
+![Vedio](https://watch.screencastify.com/v/AnlYJ8xmF3sP9XEgaLoq)
+
 
 
 
