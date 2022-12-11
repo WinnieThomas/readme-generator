@@ -39,4 +39,4 @@ THEN I am taken to the corresponding section of the README
 ![Screenshot3](https://github.com/WinnieThomas/readme-generator/blob/main/images/Readme3.png?raw=true)
 
 ## Vedio walkthrough of the application
-![Vedio](https://youtu.be/7UonhWisYoE)
+![Vedio](https://drive.google.com/file/d/1JvHhTqOT_UoaLXXYdw48wl0yL8z8Nb-w/view)
