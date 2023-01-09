@@ -40,5 +40,5 @@ THEN I am taken to the corresponding section of the README
 
 ## Vedio walkthrough of the application
 ![Vedio](https://user-images.githubusercontent.com/111534031/206902673-050c99eb-eaea-4c9d-98e4-589abe59b4c4.mp4)
-![Vedio](https://drive.google.com/file/d/1VhHI4gxTom5C6Mf98pxZRZQa8lLTQl5A/view)
+
 
